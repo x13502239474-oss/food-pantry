@@ -1,0 +1,14 @@
+# 本地运行产生的隐私数据 / 系统垃圾
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# 导出文件默认不入库（避免误提交真实家庭数据）
+exports/
+*.local.json
+
+# 依赖（本项目无构建步骤，保留规则以防后续引入）
+node_modules/
+__pycache__/
+*.pyc

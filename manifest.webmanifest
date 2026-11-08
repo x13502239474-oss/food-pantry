@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "饮食库 · 食材与菜谱",
+  "short_name": "饮食库",
+  "description": "自托管的家庭饮食库：菜谱、食材库存、采购清单、做饭记录与剩菜提醒。数据只存在本机浏览器。",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F2EC",
+  "theme_color": "#1F7A5C",
+  "categories": ["food", "lifestyle", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
